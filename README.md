@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Production Link 
-(https://todoapp-hooks.netlify.app/).
+[https://todoapp-hooks.netlify.app/](https://todoapp-hooks.netlify.app/).
 
 ### `npm start`
 
